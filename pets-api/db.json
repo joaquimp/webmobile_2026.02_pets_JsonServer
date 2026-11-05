@@ -1,0 +1,70 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "nome": "Mel",
+      "especie": "cachorro",
+      "raca": "Sem raça definida",
+      "idade": 3,
+      "porte": "Médio",
+      "vacinado": true,
+      "descricao": "Carinhosa e cheia de energia. Adora passear e brincar com bolinhas.",
+      "imagem": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "nome": "Simba",
+      "especie": "gato",
+      "raca": "Sem raça definida",
+      "idade": 2,
+      "porte": "Pequeno",
+      "vacinado": true,
+      "descricao": "Curioso e tranquilo. Gosta de observar a janela e dormir no sofá.",
+      "imagem": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "nome": "Thor",
+      "especie": "cachorro",
+      "raca": "Labrador",
+      "idade": 5,
+      "porte": "Grande",
+      "vacinado": true,
+      "descricao": "Companheiro e brincalhão. Gosta de caminhadas e de estar perto das pessoas.",
+      "imagem": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "nome": "Luna",
+      "especie": "gato",
+      "raca": "Siamês",
+      "idade": 1,
+      "porte": "Pequeno",
+      "vacinado": false,
+      "descricao": "Ativa e curiosa. Adora explorar caixas e brincar com fitas.",
+      "imagem": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "nome": "Pipoca",
+      "especie": "coelho",
+      "raca": "Mini Lop",
+      "idade": 2,
+      "porte": "Pequeno",
+      "vacinado": false,
+      "descricao": "Dócil e calma. Gosta de cenouras e de explorar o jardim com supervisão.",
+      "imagem": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "nome": "Paçoca",
+      "especie": "cachorro",
+      "raca": "Beagle",
+      "idade": 4,
+      "porte": "Médio",
+      "vacinado": true,
+      "descricao": "Sociável e muito curioso. Sempre encontra um cheiro novo para investigar.",
+      "imagem": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
